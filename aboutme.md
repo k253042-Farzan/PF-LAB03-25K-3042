@@ -1,4 +1,4 @@
-Syed Muhammad Farzan Obaid
+Syed Muhammad Farzan Obaid\n
 Bachelors Of Software Engineering
 I like to play cricket
 
