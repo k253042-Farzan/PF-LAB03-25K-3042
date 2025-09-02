@@ -5,5 +5,5 @@
 3. Basketball
 - Shoaib Akhtar
 - Ronaldo
--  Michael Jordan\\
+-  Michael Jordan\
 ***This is for my Lab Task.***
