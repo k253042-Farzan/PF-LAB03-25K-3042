@@ -1,9 +1,3 @@
    # PF-LAB03-25K-3042
    
-1. Cricket
-2. Football
-3. Basketball
-- Shoaib Akhtar
-- Ronaldo
--  Michael Jordan\
-***This is for my Lab Task.***
+My name is Syed Muhammad Farzan Obaid. I am currently studying in FAST University in Software Engineering. I spent 4 years in Computer Science field, which created my interest in progrmming I always that how websites are created, how operating systems. These questions lead me to learning programming language which I love to do.
